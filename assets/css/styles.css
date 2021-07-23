@@ -525,15 +525,15 @@ img {
 
 /* == Backend == */
 .skills__php {
+    width: 80%;
+}
+.skills__laravel {
     width: 90%;
 }
-.skills__node {
+.skills__mysql {
     width: 75%;
 }
-.skills__firebase {
-    width: 90%;
-}
-.skills__python {
+.skills__node {
     width: 55%;
 }
 
